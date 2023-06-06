@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Max Herden</h1>
 <h3 align="center">Developer in making</h3>
 
-- 🌱 I’m currently learning **Python**
-
-- 📝 I regularly post content for [https://www.instagram.com/spaceguides/](https://www.instagram.com/spaceguides/)
+- 🌱 I’m currently learning how to use Ursina with Python
 
 - 📫 How to reach me **max.herden@gmx.de**
 
