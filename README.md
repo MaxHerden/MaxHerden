@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Max Herden</h1>
 <h3 align="center">Developer in making</h3>
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C#
 
 - 📫 How to reach me **max.herden@gmx.de**
 
